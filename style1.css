@@ -1,0 +1,9 @@
+.main{
+    background-color: antiquewhite;
+    display:flex;
+    flex:right;
+
+}
+.img{
+    height:40vh;
+}
